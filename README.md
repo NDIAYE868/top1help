@@ -8,7 +8,7 @@ Ce dépôt contient les documents de cadrage, de conception et de suivi du proje
 
 *   [README.md](file:///c:/Users/Saliou/Desktop/TOP1HELP/README.md) : Vue d'ensemble du projet.
 *   [backlog-a3.md](file:///c:/Users/Saliou/Desktop/TOP1HELP/backlog-a3.md) : Liste ordonnée des tâches et fonctionnalités du backlog.
-*   [home-defiMili.md](file:///c:/Users/Saliou/Desktop/TOP1HELP/home-defiMili.md) : Contexte, objectifs et cadrage du défi (Défis Militaires / DéfiMili).
+*   [hwm-definitif.md](file:///c:/Users/Saliou/Desktop/TOP1HELP/hwm-definitif.md) : Formulations "Comment pourrions-nous" (HMW / HWM) pour l'idéation.
 *   [carte-empathie.md](file:///c:/Users/Saliou/Desktop/TOP1HELP/carte-empathie.md) : Analyse des besoins et ressentis des utilisateurs cibles.
 *   [chapeaux-bono.md](file:///c:/Users/Saliou/Desktop/TOP1HELP/chapeaux-bono.md) : Séance d'idéation et d'analyse selon la méthode des 6 chapeaux de Bono.
 *   [contraintes-mvp.md](file:///c:/Users/Saliou/Desktop/TOP1HELP/contraintes-mvp.md) : Contraintes techniques, fonctionnelles et limites du MVP.
