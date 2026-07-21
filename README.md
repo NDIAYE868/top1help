@@ -1,7 +1,7 @@
 # GET409-TOP1HELP
 
 ## 📌 Description du Projet
-[Description succincte du projet TOP1HELP. Indiquez ici le but général de l'application ou du service.]
+Top1Help est un assistant intelligent d'orientation qui guide chaque utilisateur vers la formation, les certifications et le parcours professionnel les plus adaptés à son profil afin de maximiser ses chances de réussite académique et d'insertion professionnelle.
 
 ## 📁 Structure des Documents de Conception
 Ce dépôt contient les documents de cadrage, de conception et de suivi du projet. Vous trouverez ci-dessous la liste des fichiers créés et leur rôle :
