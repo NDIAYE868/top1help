@@ -6,4 +6,4 @@
 | Ndeye Arame Soniane | Product Manager | @ara126| [evasoniane@gmail.com] |
 | SiTA LI-NZITE Rolain Helra  | Responsable impact( et éthique) | @wolf-ska| [rolainhelrapro41@gmail.com] |
 | Pape Saliou Ndiaye | Dev UI | @NDIAYE868 | [papesaliou868@yahoo.com] |
-| Habib Diallo  | DEV UI & MASTER PROMPT ENGINEER | @rrrrrr | [abibdiallo17@gmail.com] |
+| Habib Diallo  | DEV UI & MASTER PROMPT ENGINEER | @Habib741 | [abibdiallo17@gmail.com] |
