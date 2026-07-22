@@ -1,7 +1,7 @@
 # 👤 Carte d'Empathie (Empathy Map)
 
 ### 1. Ce qu'il pense et ressent
-- « Touré ne sait pas quelle formation choisir après le bac, et j'ai peur de me tromper de voie. »
+- « moussa ne sait pas quelle formation choisir après le bac, et j'ai peur de me tromper de voie. »
 - Ressent une pression familiale et sociale forte pour réussir, mêlée à l'angoisse de perdre du temps et de l'argent dans une mauvaise orientation.
 
 ### 2. Ce qu'il voit
