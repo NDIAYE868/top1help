@@ -1,41 +1,37 @@
-# 👤 Carte d'Empathie (Empathy Map)
+# 👤 Carte d'Empathie - TOP1HELP
 
-Ce document permet de se mettre à la place de notre utilisateur cible (Persona) afin de concevoir une solution qui répond précisément à son vécu quotidien.
-
-## 🎯 Profil du Persona Cible
-*   **Segment d'utilisateur** : [Ex. Le bénévole de terrain / Le demandeur d'aide d'urgence]
-*   **Rôle principal** : [Ex. Apporter son soutien technique ou logistique rapide]
+Cette carte d'empathie cible un profil type de notre cible principale : **le jeune diplômé ou le demandeur d'emploi en reconversion** cherchant à intégrer le monde professionnel (par exemple, dans les domaines de la Tech, de l'IA et de la Data Science).
 
 ---
 
 ### 👁️ 1. Que voit-il ?
-*   Ce qui l'entoure dans son environnement de travail / quotidien.
-*   Les outils informatiques et physiques qu'il utilise.
-*   Les difficultés évidentes rencontrées par ses collaborateurs ou son entourage.
+*   Une multitude de sites d'emploi (LinkedIn, Indeed), de plateformes de cours (Coursera, Udemy) et d'organismes de certification.
+*   Des exigences d'embauche de plus en plus complexes (exigeant des certifications spécifiques : AWS, Cisco, PMI, Scrum).
+*   Ses pairs qui trouvent des opportunités ou affichent leurs réussites sur les réseaux professionnels.
 
 ### 👂 2. Qu'entend-il ?
-*   Ce que disent ses collègues et supérieurs sur la situation.
-*   Les rumeurs, conseils ou plaintes qui circulent.
-*   Les recommandations des experts ou des autorités.
+*   Les recruteurs qui insistent sur l'importance des compétences pratiques et des certifications.
+*   Ses professeurs ou conseillers d'orientation qui donnent des conseils parfois trop théoriques ou généraux.
+*   L'écho médiatique autour de l'IA et la nécessité absolue de se former en continu pour rester employable.
 
 ### 🧠 3. Que pense-t-il et ressent-il ?
-*   Ses valeurs profondes et ses aspirations.
-*   Ce qui l'inquiète le plus (perte de temps, manque d'organisation, sécurité).
-*   Ce qui le motive à agir au quotidien.
+*   **Aspirations** : Il veut trouver un travail motivant, valorisant et bien rémunéré qui correspond à ses études.
+*   **Incertitude** : Il se demande s'il possède les bonnes compétences et quelles certifications (parmi les dizaines disponibles) valent vraiment l'investissement.
+*   **Surcharge cognitive** : Il se sent dépassé par la quantité d'informations éparpillées et contradictoires sur le web.
 
 ### 🗣️ 4. Que dit-il et fait-il ?
-*   Son attitude en public et son langage.
-*   Les actions concrètes qu'il entreprend pour résoudre ses problèmes aujourd'hui.
-*   Les contradictions éventuelles entre son discours public et ses actions réelles.
+*   **Comportement** : Il passe des heures à postuler en envoyant des CV génériques et à chercher des cours en ligne.
+*   **Discours** : "Je cherche activement", "J'ai besoin de savoir par où commencer pour devenir Data Scientist/Ingénieur".
+*   Il essaie de suivre plusieurs formations en parallèle sans plan de carrière bien structuré.
 
 ---
 
 ### 💔 5. Ses Souffrances (Pains)
-*   **Frustrations** : Processus lents, manque d'information en temps réel, outils trop complexes.
-*   **Obstacles** : Mauvaise couverture réseau, manque de temps, manque de clarté dans les tâches.
-*   **Risques redoutés** : Erreur de communication, retard d'intervention.
+*   **Frustration** : Rejets répétés ou absence de réponse à ses candidatures.
+*   **Perte de temps** : Suivre des formations qui ne correspondent pas aux besoins réels du marché ou des recruteurs.
+*   **Difficulté de rédaction** : La corvée de devoir adapter son CV et rédiger des lettres de motivation pour chaque offre.
 
 ###  6. Ses Gains espérés (Gains)
-*   **Besoins réels** : Simplicité d'usage, gain de temps, sentiment d'utilité et de sécurité.
-*   **Mesure du succès** : Rapidité de résolution d'un problème, retours positifs des bénéficiaires.
-*   **Objectifs** : Accomplir sa mission efficacement et sereinement.
+*   **Orientation claire** : Une feuille de route personnalisée ("Pour faire ce métier, passez cette certification et suivez cette formation").
+*   **Productivité** : Un CV professionnel généré en quelques clics, adapté aux exigences du poste ciblé.
+*   **Confiance en soi** : Des simulations d'entretien d'embauche pour être prêt le jour J.

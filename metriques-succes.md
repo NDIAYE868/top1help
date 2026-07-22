@@ -1,25 +1,44 @@
-# 📈 Métriques de Succès & Indicateurs Clés (KPIs)
+Métriques de Succès — Équipe TOP1HELP
 
-Ce document liste les indicateurs permettant de mesurer quantitativement et qualitativement le succès et l'impact de notre solution TOP1HELP.
+MVP
+Une plateforme Web responsive (React.js/FastAPI) orientant les étudiants et jeunes diplômés vers les meilleures formations et certifications grâce à un moteur de recommandation IA local, et facilitant leurs candidatures avec un générateur de CV intelligent.
 
-## 🎯 Objectifs Majeurs (OKRs)
+⭐ Métrique Nord
+Indicateur : % d'utilisateurs actifs ayant postulé à une opportunité d'emploi ou démarré un cours recommandé par l'IA.
+Valeur cible à 30 jours : 50% des utilisateurs actifs inscrits.
+Comment mesurer : Suivi des clics sur les boutons de redirection ("Postuler" ou "Commencer la formation") enregistrés dans notre base de données PostgreSQL.
 
-### 1. Objectif : Engagement communautaire fort
-*   **Indicateur Clé (KR 1)** : Atteindre un ratio d'au moins 2 aidants inscrits pour 1 demandeur d'aide actif.
-*   **Indicateur Clé (KR 2)** : Obtenir un taux de récurrence (bénévole aidant plus d'une fois) supérieur à 40%.
+📈 Métriques de Progression
 
-### 2. Objectif : Réactivité opérationnelle
-*   **Indicateur Clé (KR 1)** : Temps moyen de prise en charge d'une alerte inférieur à 15 minutes.
-*   **Indicateur Clé (KR 2)** : Taux de résolution complète des demandes d'aide supérieur à 80%.
+Métrique P1
+Indicateur : Temps de calcul et de réponse du moteur de recommandation de l'API.
+Valeur cible à 30 jours : < 2,0 secondes en moyenne.
+Comment mesurer : Enregistrement automatique du temps d'exécution (en millisecondes) à chaque appel de l'endpoint `/api/recommend`.
 
----
+Métrique P2
+Indicateur : Taux de complétion et de téléchargement du CV Intelligent.
+Valeur cible à 30 jours : 80% des profils complétés génèrent et téléchargent au moins un CV ou une lettre de motivation.
+Comment mesurer : Compteur d'événements de téléchargement sur l'action "Générer PDF".
 
-## 📊 Tableau des Indicateurs Clés de Performance (KPIs)
+Métrique P3
+Indicateur : Niveau d'engagement avec l'Assistant IA conversationnel.
+Valeur cible à 30 jours : > 150 sessions de chat tenues avec au moins 3 échanges de messages.
+Comment mesurer : Requête SQL comptabilisant le nombre de messages par ID de session dans la table `chat_sessions`.
 
-| Catégorie | Indicateur Spécifique | Valeur Cible (MVP) | Mode de calcul / Outil |
-| :--- | :--- | :--- | :--- |
-| **Acquisition** | Nombre total d'utilisateurs inscrits | 200 personnes | Base de données (Admin metrics) |
-| **Activation** | Taux de profil complété après inscription | > 80% | Analytics / BDD |
-| **Rétention** | Fréquence de connexion mensuelle | > 4 fois / mois | Google Analytics / Plausible |
-| **Performance** | Taux de disponibilité du serveur (Uptime) | > 99.5% | Pingdom / UptimeRobot |
-| **Satisfaction**| Net Promoter Score (NPS) post-intervention | > 40 | Questionnaire in-app après clôture d'aide |
+🚨 Métriques d'Alerte
+
+Alerte A1
+Signal : Consommation de budget excessive sur les clés d'API OpenAI.
+Seuil : Coût quotidien de l'API supérieur à 5,00 $ pendant plus de 2 jours consécutifs.
+Action corrective : Implémenter un limiteur de débit (rate limiting) par adresse IP et restreindre la longueur maximale des tokens de sortie du chatbot.
+
+Alerte A2
+Signal : Dégradation du temps de réponse du moteur de recommandation.
+Seuil : Temps moyen de réponse supérieur à 3,0 secondes mesuré sur 20 requêtes consécutives.
+Action corrective : Optimiser la vectorisation des compétences ou mettre en place un système de cache Redis/mémoire locale pour les profils similaires.
+
+Tableau de Bord S6
+À la démo S6, nous présenterons ces 3 chiffres :
+*   **Métrique Nord** : % d'utilisateurs engagés vers un cours/emploi (valeur réelle vs cible de 50%)
+*   **Métrique P1** : Temps de calcul moyen des recommandations (valeur réelle vs cible de < 2,0s)
+*   **Alerte A1** : Coût quotidien cumulé de l'API OpenAI (déclenchée ou non)
